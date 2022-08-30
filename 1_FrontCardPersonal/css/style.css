@@ -1,0 +1,14 @@
+.card_tit{
+    color: black;
+    font-weight: 700;
+    font-family: cursive;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.card_text{
+    font-size: large;
+    color: black;
+    font-family: system-ui, serif;
+    margin-bottom: 40px;
+}
